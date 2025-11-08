@@ -1,6 +1,7 @@
 # Game_Idea_generator-turkish-
 
 Gerekli küthüpaneler:
-  winsound
+  winsound 
+  ,
   rich
   
